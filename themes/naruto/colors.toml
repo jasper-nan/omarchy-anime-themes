@@ -1,0 +1,31 @@
+# Naruto 火影忍者 — 木叶旋涡 · 忍道之火
+mode = "dark"
+
+accent = "#f0973c"
+selection = "#332e27"
+muted = "#6c665d"
+
+background = "#141009"
+dark_background = "#0e0b06"
+darker_background = "#080603"
+lighter_background = "#1c1710"
+
+foreground = "#efe8dc"
+dark_foreground = "#948872"
+light_foreground = "#f4efe6"
+bright_foreground = "#f7f4ee"
+
+red = "#e06a6a"
+yellow = "#e8d294"
+orange = "#e0a06a"
+green = "#8fc98f"
+cyan = "#7fc4d4"
+blue = "#88a8d8"
+magenta = "#b88cd0"
+brown = "#8a7560"
+bright_red = "#e4908c"
+bright_yellow = "#ead9aa"
+bright_green = "#acd2a6"
+bright_cyan = "#a1cfd6"
+bright_blue = "#a7bbd9"
+bright_magenta = "#c8a8d4"

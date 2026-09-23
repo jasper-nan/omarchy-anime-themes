@@ -1,0 +1,31 @@
+# One Piece 海贼王 — 伟大航路 · 草帽起航
+mode = "dark"
+
+accent = "#f0a04a"
+selection = "#342e25"
+muted = "#6d665b"
+
+background = "#151008"
+dark_background = "#0f0b05"
+darker_background = "#090604"
+lighter_background = "#1d1710"
+
+foreground = "#f2e8d8"
+dark_foreground = "#978a72"
+light_foreground = "#f6efe4"
+bright_foreground = "#f8f4ec"
+
+red = "#e06a6a"
+yellow = "#e8d294"
+orange = "#e0a06a"
+green = "#8fc98f"
+cyan = "#7fc4d4"
+blue = "#88a8d8"
+magenta = "#b88cd0"
+brown = "#8a7560"
+bright_red = "#e5908b"
+bright_yellow = "#ebd9a8"
+bright_green = "#add2a5"
+bright_cyan = "#a2cfd5"
+bright_blue = "#a8bbd8"
+bright_magenta = "#c9a8d2"

@@ -1,0 +1,31 @@
+# Frieren 葬送的芙莉莲 — 精灵魔法师 · 千年旅途
+mode = "dark"
+
+accent = "#8fd4b0"
+selection = "#2d3336"
+muted = "#626a6b"
+
+background = "#10161a"
+dark_background = "#0b0f12"
+darker_background = "#070a0c"
+lighter_background = "#172025"
+
+foreground = "#dce8e4"
+dark_foreground = "#758a82"
+light_foreground = "#e6efec"
+bright_foreground = "#eef4f2"
+
+red = "#e06a6a"
+yellow = "#e8d294"
+orange = "#e0a06a"
+green = "#8fc98f"
+cyan = "#7fc4d4"
+blue = "#88a8d8"
+magenta = "#b88cd0"
+brown = "#8a7560"
+bright_red = "#df908f"
+bright_yellow = "#e4d9ac"
+bright_green = "#a6d2a8"
+bright_cyan = "#9bcfd9"
+bright_blue = "#a1bbdc"
+bright_magenta = "#c3a8d6"

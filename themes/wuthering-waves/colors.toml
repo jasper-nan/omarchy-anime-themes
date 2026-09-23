@@ -1,0 +1,31 @@
+# Wuthering Waves 鸣潮 — 漂泊者 · 声骸共鸣
+mode = "dark"
+
+accent = "#7fd4c4"
+selection = "#2d3337"
+muted = "#62696d"
+
+background = "#10151a"
+dark_background = "#0b0f13"
+darker_background = "#07090c"
+lighter_background = "#171e25"
+
+foreground = "#dce8ea"
+dark_foreground = "#708489"
+light_foreground = "#e6eff0"
+bright_foreground = "#eef4f4"
+
+red = "#e06a6a"
+yellow = "#e8d294"
+orange = "#e0a06a"
+green = "#8fc98f"
+cyan = "#7fc4d4"
+blue = "#88a8d8"
+magenta = "#b88cd0"
+brown = "#8a7560"
+bright_red = "#df9090"
+bright_yellow = "#e4d9ae"
+bright_green = "#a6d2aa"
+bright_cyan = "#9bcfdb"
+bright_blue = "#a1bbdd"
+bright_magenta = "#c3a8d8"

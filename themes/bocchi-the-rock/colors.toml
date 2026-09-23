@@ -1,0 +1,31 @@
+# Bocchi The Rock 孤独摇滚 — 吉他英雄 · 社恐粉波
+mode = "dark"
+
+accent = "#f0a3cc"
+selection = "#352e37"
+muted = "#6d656d"
+
+background = "#161019"
+dark_background = "#100b13"
+darker_background = "#090609"
+lighter_background = "#1e161f"
+
+foreground = "#f0e4ec"
+dark_foreground = "#948290"
+light_foreground = "#f4ecf2"
+bright_foreground = "#f8f2f6"
+
+red = "#e06a6a"
+yellow = "#e8d294"
+orange = "#e0a06a"
+green = "#8fc98f"
+cyan = "#7fc4d4"
+blue = "#88a8d8"
+magenta = "#b88cd0"
+brown = "#8a7560"
+bright_red = "#e58f91"
+bright_yellow = "#ead7ae"
+bright_green = "#acd1ab"
+bright_cyan = "#a1cedb"
+bright_blue = "#a7bade"
+bright_magenta = "#c9a6d8"

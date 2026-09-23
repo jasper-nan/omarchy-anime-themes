@@ -1,0 +1,31 @@
+# Chainsaw Man 电锯人 — 恶魔猎人 · 链锯之心
+mode = "dark"
+
+accent = "#e8604a"
+selection = "#332b2a"
+muted = "#6c615f"
+
+background = "#150d0d"
+dark_background = "#0f0808"
+darker_background = "#090505"
+lighter_background = "#1d1414"
+
+foreground = "#eee0da"
+dark_foreground = "#94806f"
+light_foreground = "#f3e9e5"
+bright_foreground = "#f6f0ec"
+
+red = "#e06a6a"
+yellow = "#e8d294"
+orange = "#e0a06a"
+green = "#8fc98f"
+cyan = "#7fc4d4"
+blue = "#88a8d8"
+magenta = "#b88cd0"
+brown = "#8a7560"
+bright_red = "#e48d8c"
+bright_yellow = "#ead6a9"
+bright_green = "#acd0a6"
+bright_cyan = "#a0ccd6"
+bright_blue = "#a7b9d9"
+bright_magenta = "#c8a5d3"

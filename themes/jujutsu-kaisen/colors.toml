@@ -1,0 +1,31 @@
+# Jujutsu Kaisen 咒术回战 — 五条悟 · 无下限咒术
+mode = "dark"
+
+accent = "#82b8f5"
+selection = "#292d36"
+muted = "#5e646e"
+
+background = "#0c1018"
+dark_background = "#080b10"
+darker_background = "#05070a"
+lighter_background = "#131926"
+
+foreground = "#dae2ee"
+dark_foreground = "#6f7d94"
+light_foreground = "#e5ebf3"
+bright_foreground = "#ecf0f6"
+
+red = "#e06a6a"
+yellow = "#e8d294"
+orange = "#e0a06a"
+green = "#8fc98f"
+cyan = "#7fc4d4"
+blue = "#88a8d8"
+magenta = "#b88cd0"
+brown = "#8a7560"
+bright_red = "#de8e92"
+bright_yellow = "#e4d7af"
+bright_green = "#a6d0ac"
+bright_cyan = "#9acddc"
+bright_blue = "#a1b9df"
+bright_magenta = "#c2a6d9"
