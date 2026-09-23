@@ -1,0 +1,33 @@
+# Demon Slayer 鬼灭之刃 — 火之神神乐 · 市松
+# 市松墨绿底色 + 日之呼吸火焰强调 + 羽织绿点缀
+mode = "dark"
+
+accent = "#f08660"
+selection = "#28311f"
+muted = "#5c6850"
+
+background = "#131a12"
+dark_background = "#0d130c"
+darker_background = "#080c07"
+lighter_background = "#1b241a"
+
+foreground = "#e2e8dc"
+dark_foreground = "#78856f"
+light_foreground = "#eaefe4"
+bright_foreground = "#f2f6ec"
+
+red = "#e86a52"
+yellow = "#e8cf7a"
+orange = "#f08660"
+green = "#7fae87"
+cyan = "#7fc0b8"
+blue = "#7a9fc9"
+magenta = "#c08cc9"
+brown = "#96705a"
+
+bright_red = "#f58a74"
+bright_yellow = "#f2dd96"
+bright_green = "#98c49e"
+bright_cyan = "#96d4cc"
+bright_blue = "#93b5d9"
+bright_magenta = "#d0a5d9"

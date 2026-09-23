@@ -1,0 +1,33 @@
+# Attack on Titan 进击的巨人 — 自由之翼 · 墙内世界
+# 深橄榄墨绿底色 + 自由之翼绿强调 + 血色与墙岩金点缀
+mode = "dark"
+
+accent = "#8fae87"
+selection = "#232b1f"
+muted = "#55604d"
+
+background = "#10130e"
+dark_background = "#0b0d09"
+darker_background = "#070805"
+lighter_background = "#181c14"
+
+foreground = "#dde3d4"
+dark_foreground = "#7a8570"
+light_foreground = "#e5e9dd"
+bright_foreground = "#eef2e6"
+
+red = "#c96a58"
+yellow = "#d9c078"
+orange = "#cf8f66"
+green = "#8fae87"
+cyan = "#7fb5a8"
+blue = "#7a94b8"
+magenta = "#a98ab8"
+brown = "#8a7358"
+
+bright_red = "#db8472"
+bright_yellow = "#e8d294"
+bright_green = "#a8c49e"
+bright_cyan = "#96c9bc"
+bright_blue = "#92abc9"
+bright_magenta = "#bfa2cc"

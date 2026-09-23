@@ -1,0 +1,33 @@
+# Detective Conan 名侦探柯南 — 真相只有一个
+# 午夜藏青底色 + 柯南蓝强调 + 领结红与侦探金点缀
+mode = "dark"
+
+accent = "#74a9e8"
+selection = "#1c2740"
+muted = "#4c5878"
+
+background = "#0d1320"
+dark_background = "#090d16"
+darker_background = "#060810"
+lighter_background = "#131a2b"
+
+foreground = "#d6e0f0"
+dark_foreground = "#6b7894"
+light_foreground = "#e0e8f5"
+bright_foreground = "#eaf0fa"
+
+red = "#e05555"
+yellow = "#e8c860"
+orange = "#e0956a"
+green = "#8fc98f"
+cyan = "#7fc4d9"
+blue = "#74a9e8"
+magenta = "#b48ce0"
+brown = "#8a7560"
+
+bright_red = "#f07575"
+bright_yellow = "#f2d680"
+bright_green = "#a8dba8"
+bright_cyan = "#98d8ea"
+bright_blue = "#93bdf0"
+bright_magenta = "#c9a8ea"
